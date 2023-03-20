@@ -1,5 +1,8 @@
+library(stringr)
+
 data<- read.csv("Indeed_JD_SoftwareDeveloper.csv")
 summary(data)
+
 calculate_experience <- function(job){
   str_extract(job, '(\\d+(?:-\\d+)?\\+?)\\s*(years?)')
 }
@@ -42,33 +45,26 @@ data$salary_min <- as.numeric(gsub("[^0-9.]+", "", sapply(strsplit(data$salary1,
 data$salary_max <- as.numeric(gsub("[^0-9.]+", "", sapply(strsplit(data$salary1, "-"), "[", 2)))
 data$salary_norm <- trunc(data$salary_min + data$salary_max)/2
 
-#data$salary_norm1 <- scale(data$salary_min + data$salary_max)/2
+data$salary_norm1 <- scale(data$salary_min + data$salary_max)/2
 
-#hourly_to_yearly <- function(hourly_pay) {
-#      pay <- hourly_pay * 40 *52
-#      return(pay)
-#}
-#yearly_to_yearly <- function(hourly_pay) {
-#  pay <- hourly_pay
-#  return(pay)
-#}
+hourly_to_yearly <- function(hourly_pay) {
+     pay <- hourly_pay * 40 * 52
+     return(pay)
+}
 
-#calculate_sal<- function(sal)
-#{
- # if(length(sal) < 5)
-  #  cal_pay<-hourly_to_yearly(sal)
-  #else
-   # cal_pay<-yearly_to_yearly(sal)
-  
-#  return (cal_pay)
- # }
-#data$salary_norm12 <- hourly_to_yearly(as.numeric(data$salary_norm))
-#if (any(is.na(data$salary_norm1))) {
- # warning("Unable to extract numeric value from experience string")
-  #data$salary_norm1[is.na(data$salary_norm1)] <- NA
-#}
-#data$salary_norm1 <- ifelse(as.numeric(data$salary_norm) < 5, 
- #                           hourly_to_yearly(as.numeric(data$salary_norm)), 
-#                            as.numeric(data$salary_norm))
+calculate_sal<- function(sal) {  
+    li <- list()
+    for(i in 1:length(as.numeric(sal))) { 
+        if(is.na(sal[i])) 
+            li <- append(li, sal[i])
+        else if (nchar(as.character(sal[i])) <= 3)
+            li <- append(li, hourly_to_yearly(sal[i]))
+        else
+            li <- append(li, sal[i])
+    } 
+    
+    return(li)
+}
 
+data$salary_norm12 <- calculate_sal(data$salary_norm)
 
