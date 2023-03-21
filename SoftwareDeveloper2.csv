@@ -1,0 +1,601 @@
+,Title,Company,Location,Type,Salary,Contract_type,Job Description
+0,Back-End Software Engineer,CVS Health,"Richardson, TX",Onsite,"$70,000 - $140,000 ",r,"This role will work closely with the CVS.com, Marketing,
+Specialty and Rx Operations, Caremark.com, Specialty
+business and technical teams to deliver functionality for the CVS.com, Caremark.com, specialty.com site. Act as
+architect for medium to large projects and drive the design
+do solutions for the CVS.com, caremark.com, specialty
+business that are cloud native, scalable, maintainable and
+reliable. Proactively identify and evaluate emerging
+technologies and tools. Work with other senior architects to create the high-level software designs and technical
+specifications. Manage the evolution of architectural
+roadmaps for your domain, showing how new features are
+released or updated, with an eye on paying down technical debt with minimal disruption.
+Evaluate package solutions and participate in selection of
+solutions to meet business needs and architecture
+standards. Provide guidance to developers and other
+stakeholders on architectural best practices, guidelines,
+and standards. Evangelize, mentor, and coach all on the
+same.
+Participate in peer reviews on specifications, design and
+code. Work with development teams to resolve
+development and implementation issues. Work closely with the CVS Online business team and Business Analysts to ensure that requirements are fully understood and
+documented in order to deliver quality design deliverables.
+Lead Proof-Of-Concepts and Spike Solutions, and provide
+“Reference Architectures” and “Baseline Implementations”
+when appropriate. Work closely with QA and Operations to
+ensure smooth QA and deployment of applications. Work
+with project teams to plan integration and implementation
+strategies. Communicate very technical material to a non-technical business audience. Provide guidance, direction
+and mentorship to Architects.
+Provide guidance to developers and other stakeholders
+regarding the design of server applications and UI clients,
+encompassing APIs and frameworks, micro-services,
+containers, databases, cloud infrastructures, and cloud
+services, etc.
+Responsible for implementation of large systems that
+utilize MicroServices , cloud technologies. Apply
+knowledge of designing n-tier OO system architecture
+using EJB technologies, MicroServices and cloud
+technologies. Create architecture and design patterns in
+Java, cloud & Microservices. Select, design and implement
+Microservices, Content management and Cloud Native
+systems.
+Ensure all Non-Functional Requirements (e.g.
+performance, availability and fail-over, scalability, security,
+etc.) are properly articulated, and work with all parties to
+guarantee that the software products that are delivered
+meet these objectives. Drive buy vs build evaluations,
+including consideration of OSS.
+Participates in high-level estimation Work closely with
+other architects to create and implement new system
+designs as well as make improvements to existing
+systems. Serve as subject matter expert working with
+business stakeholders, architecting use cases relevant to
+Digital Pharmacy across multiple enterprise systems.
+Collaborate with technical experts to develop solution
+during the design phase, enabling the implementation of
+final solutions. Ensuring the technical integrity, consistency
+and adherence to architectural standards. Implementation
+of architectural artifacts depicting the solution consisting of
+all necessary integrations and technical components.
+
+Locations: Richardson, TX, Buffalo Grove, IL or Woonsocket, RI
+
+Pay Range
+The typical pay range for this role is:
+Minimum: 70,000
+Maximum: 140,000
+
+Please keep in mind that this range represents the pay range for all positions in the job grade within which this position falls. The actual salary offer will take into account a wide range of factors, including location.
+
+Required Qualifications
+3 + years of overall IT/Software Development experience
+3+ years of experience with Java, J2EE , Node JS and Spring Boot, Spring data, Spring Batch
+2 + years of experience with REST API
+2 + years in Logging framework’
+2+ years of experience developing microservices and cloud native applications
+
+Preferred Qualifications
+A proven track record working as part of a team on large
+architectural projects
+Experience with distributed caching solutions;
+understands the factors that enable effective caching
+Exposure to Big-Data and/or Machine Learning
+Exposure to CI/CD and DevOps
+Experience with SAFe Software Development Principles
+Experience in VPC concepts, VPC peering
+Experience working on migrations of On-prem to Cloud
+Experience with the design and development of complex
+systems; employs a disciplined and rigorous approach
+Adept at requirements analysis, estimation, systems and
+application design, and testing
+Experience designing RESTful APIs that facilitate a
+superior UX or simplify systems integration.
+Familiarity with popular Design Patterns catalogues
+Experience with RDBMS and/or NoSQL databases.
+Understands the benefits and trade-offs of both. Familiar
+with normalization and denormalization, sharding, and
+other data-centric patterns
+Experience with distributed computing architectures,
+including race conditions, parallelism, and concurrency
+control
+Experience with micro-services
+Experience architecting solutions for AWS or Google
+clouds
+Excellent collaboration, influencing, evangelization,
+negotiation, coaching, mentoring, and coalition-building
+skills. Ability to work with persons in all job functions (e.g.
+product, UX, developers, QA, DevOps).
+Excellent verbal and written communications
+Ability to manage multiple competing priorities with
+minimal supervision. Self-directed
+A great team player, with demonstrable experience
+delivering superior software products via agile
+methodologies
+Experience on an Agile team
+
+Education
+Bachelor’s degree or equivalent work experience
+
+Business Overview
+Bring your heart to CVS Health Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver. Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable. We strive to promote and sustain a culture of diversity, inclusion and belonging every day. CVS Health is an affirmative action employer, and is an equal opportunity employer, as are the physician-owned businesses for which CVS Health provides management services. We do not discriminate in recruiting, hiring, promotion, or any other personnel action based on race, ethnicity, color, national origin, sex/gender, sexual orientation, gender identity or expression, religion, age, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law. We proudly support and encourage people with military experience (active, veterans, reservists and National Guard) as well as military spouses to apply for CVS Health job opportunities."
+1,IT Developer II - Software Tester AET,AGCO,"Tremont, IL",Remote,N,r,"IT Developer II – Software Tester AET
+
+Who We Are Looking For:
+
+At AGCO, we believe that when our employees succeed, our business succeeds. It is a people philosophy that we believe and invest in. We make sure all of our employees – in every function, every geography and at every level – have the tools they need to be successful and take charge of their career. Because when our people grow, our business grows. Every day. Every way.
+
+AGCO, a global leader in the design, manufacture, and distribution of agricultural solutions, has an exciting career opportunity for an IT Developer II to join our team.
+
+Working in a DevOps approach, the IT Developer II is responsible for testing and test automation of new connected vehicle products as well as updating existing products, to deliver event-driven micro-services in a streaming ecosystem. With a focus on rapid, iterative delivery of professional software to prove specific business hypotheses, this position will participate in the design, building, and operation of production deployments that provide value to internal and external customers.
+
+This position is available for remote work.
+
+What You Will Do:
+
+Work with product owners and/or other development team members to groom new features and user stories needed in applications/services.
+Test and validate new or updated features and provide support for applications in production to maintain uptime.
+Participate in team ceremonies including planning, grooming, product demonstration and team retrospectives.
+Demonstrate the ability to adapt and work with team members of various experience levels.
+Contribute to process improvement and coding standards.
+Provide feedback and mentoring to junior developers in your areas of expertise.
+Evaluate new features and solutions in partnership with Solution Architects and team members for logic fallacies before implementation.
+Resolve incidents and complete service requests to the agreed service levels (SLA)
+Monitor performance and provide responsive action to issues maintaining high-level internal customer satisfaction to required service level performance measures, through the successful resolution of customer requests/issues/change requests.
+
+What You Will Bring:
+
+A Bachelor's degree in Computer Science or related Engineering with 5+ years of relevant Software Test/Automation experience
+Experience with GIT and working with CI/CD toolchains, Javascript, Python, Pytest
+Ability to create and manage test cases.
+
+A Plus If You have:
+
+Knowledge of SAFe/Agile software methodologies is a plus.
+Cloud platform (AWS, Azure, GCP) experience is a plus.
+
+Travel Required:
+
+Work requires occasional global travel to meetings, AGCO site visits, vendor/partner site visits and conferences, expected to be 5% or less.
+
+What We Offer:
+
+Experience our global diversity and enterprising spirit while helping us create innovative technologies and a positive impact that helps feed the world’s eight billion people. From the day you decide to join AGCO, we want to engage and excite you and we are clear on where we want to go as a business, and we trust you to help us there. Whether you want to learn a new skill or aspire to do something different, we can help you develop the skills you need to take your career - and our business - to the next level.
+
+We also invite you to “Make the Most of YOU” - Benefits include: health care and wellness plans, flexible and virtual work options (where available), 401(k) Savings Plan with company match, paid holidays and paid time off, flexible spending accounts, reimbursement for continuing education, company philanthropic programs, company rewards programs, and much more…
+
+Please note that this job posting is not designed to cover or contain a comprehensive listing of all required activities, duties, responsibilities, or benefits and may change at any time with or without notice.
+
+AGCO is proud to be an Equal Opportunity Employer.
+We maintain a drug-free workplace and perform pre-employment substance abuse testing.
+
+AGCO is a global leader in the design, manufacture, and distribution of agricultural engineering with a portfolio of exciting international brands which deliver solutions to farmers in 140 countries through a full line offer from tractors and combine harvesters to protein production systems and smart farming software solutions – to an environment where the future is happening now. Join us as we bring agriculture into the future."
+2,Software Engineering Manager,Paramount+,"New York, NY 10036",Remote,"$150,000 - $180,000 ",r - Full-time,"Paramount+, a direct-to-consumer digital subscription video on-demand and live streaming service from Paramount Global, combines live sports, breaking news, and a mountain of entertainment. The premium streaming service features an expansive library of original series, hit shows and popular movies across every genre from world-renowned brands and production studios, including BET, CBS, Comedy Central, MTV, Nickelodeon, Paramount Pictures and the Smithsonian Channel. The service is also the streaming home to unmatched sports programming, including every CBS Sports event, from golf to football to basketball and more, plus exclusive streaming rights for major sports properties, including some of the world’s biggest and most popular soccer leagues. Paramount+ also enables subscribers to stream local CBS stations live across the U.S. in addition to the ability to stream Paramount Streaming’s other live channels: CBSN for 24/7 news, CBS Sports HQ for sports news and analysis, and ET Live for entertainment coverage.
+
+The team for Paramount+ is responsible for servicing Paramount’s premium online content around the world. We’re home to exclusive shows (Tulsa King, 1923, all the Star Treks, The Good Fight) and movies (Top Gun: Maverick) while helping millions of viewers consume and enjoy content across all of Paramount’s global brands (such as Nickelodeon, Comedy Central, Smithsonian, MTV, BET, etc).
+
+Role Details:
+We are looking for dependable and proactive engineering managers with many years of proven leadership skills. Engineering managers will lead multiple projects, build and coordinate diverse teams of engineers from different disciplines, formulate and implement strategies, and cooperate with other managers.
+To be successful as an engineering manager, you should have exceptional foresight, excellent communication skills, working knowledge of different engineering subject areas, and the skills for managing risk. Ideally, candidates will have both good supervisory skills and technical understanding, and an appreciation for the complex and fast-paced nature of the industry. Your Day-to-Day:
+
+Set and communicate team priorities that support the broader organizations goals. Align strategy, processes, and decision-making across teams!
+
+Set clear expectations with individuals based on their level and role and aligned to the broader organization’s goals. Meet regularly with individuals to discuss performance and development and provide feedback and coaching!
+
+Help ensure teams are on track with target deliveries, identify and communicate any risks.
+
+Help the team to adhere to long-term vision and roadmap within, and larger prioritized goals of the organization.
+
+Help ensure team quality engineering standards are kept throughout the team Basic Qualifications:
+
+BS degree in Computer Science or equivalent practical experience.
+
+5+ years of engineering experience.
+
+3+ years serving as a team lead of engineers.
+
+5+ years of Object Oriented programming experience(Java preferred), Linux environment.
+
+5+ years of experience with Spring/Spring Boot Additional Qualifications:
+
+Excellent communication and leadership skills, with the ability to effectively manage and motivate a team of engineers.
+
+Ability to prioritize projects and delegate tasks appropriately.
+
+MS degree in Computer Science or similar subject area
+
+Understanding of billing platforms (ITunes, Google Play, Stripe, Recurly, Roku, etc.)
+
+#LI - NS1
+#LI - Remote
+
+ADDITIONAL INFORMATION
+
+Hiring Salary Range: $150,000.00 - 180,000.00.
+
+The hiring salary range for this position applies to New York City, California, Colorado, Washington state, and most other geographies. Starting pay for the successful applicant depends on a variety of job-related factors, including but not limited to geographic location, market demands, experience, training, and education. The benefits available for this position include medical, dental, vision, 401(k) plan, life insurance coverage, disability benefits, tuition assistance program and PTO or, if applicable, as otherwise dictated by the appropriate Collective Bargaining Agreement. This position is bonus eligible.
+
+https://www.paramount.com/careers/benefits
+
+Paramount is an equal opportunity employer (EOE) including disability/vet.
+
+At Paramount, the spirit of inclusion feeds into everything that we do, on-screen and off. From the programming and movies we create to employee benefits/programs and social impact outreach initiatives, we believe that opportunity, access, resources and rewards should be available to and for the benefit of all. Paramount is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, creed, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, and Veteran status.
+
+If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access. https://www.paramount.com/careers as a result of your disability. You can request reasonable accommodations by calling 212.846.5500 or by sending an email to viacomaccommodations@viacom.com. Only messages left for this purpose will be returned."
+3,Software Developer,"Torch Technologies, Inc.","Huntsville, AL 35802",Onsite,Full-time,Full-time,"Job Description:
+
+Torch Technologies, a 100 percent employee-owned company, is seeking a professional Software Developer to join a team currently developing spatial computing and advanced visualization applications. Candidates applying for this position will have the opportunity to build and integrate server-side software technology with visualization products for educating and training soldiers, sailors, airmen, marines, and civilians.
+
+The candidate selected for this position will be a member of an agile development team working closely with other developers, artists, and subject matter experts. The ideal candidate must be able to work well within a multi-disciplinary collaborative team environment. The teams are developing a virtual training device framework and customer applications using the framework.
+
+Expectations and Responsibilities:
+As a member of the Advanced VizLab Team, you are expected to be a positive, pro-active, and contributing team member.
+You will collaborate daily with fellow developers, artists, and subject matter experts to develop top-tier training products for military and commercial customers.
+You will contribute to projects built primarily in C# using .Net Core with Visual Studio. The applications leverage a range of technologies including JavaScript, Electron JS, and Material libraries.
+You will be responsible for executing all aspects of the Software Development Life Cycle (SDLC) including documentation and troubleshooting as a full stack developer.
+Everyone on the team is expected to write well-designed (SOLID), testable code and we work together as a team to help make that happen.
+Everyone on the team conducts peer reviews including detailed feedback.
+You will develop flowcharts, layouts, and documentation to identify requirements for new features, as well as extending and refactoring existing capabilities.
+
+
+
+Personal Requirements:
+Must be a team player and know the importance of listening to others.
+Be a positive, active, and contributing member of the team.
+Must be able to effectively communicate in verbal and written form.
+Must be proactive and help with problem-solving.
+Excited to learn new technologies and improve the solutions under development.
+US Citizenship is required for this position.
+Eligibility to obtain a United States SECRET clearance is required for ongoing employment in this position.
+Technical Requirements:
+Bachelor’s degree in Computer Science or Software Engineering and 2 years of experience.
+Basic understanding of software engineering and up to date on best practices.
+Basic understanding of Scrum framework.
+Basic understanding of JavaScript, HTML5, SQL and one of the following languages: C#, Java, C++.
+Desired but Not Required Experience:
+Basic understanding or experience with writing Unit Tests.
+Basic understanding or experience with Docker & micro-services.
+Basic understanding of git and software version control.
+Interest in DevOps, Cloud Technologies (Azure), and System Architecture."
+4,Full Stack Javascript Engineer (Remote\WFH),IQVIA,Remote,Onsite,Full-time,Full-time,"You will be part of a growing team of engineers, focused on building new and modern software that’s positioned to revolution the clinical trial space. In this remote (WFH-based) role, you’ll be empowered and encouraged to think “outside the box” to develop innovative solutions to drive business and the industry forward. You love the idea of owning a product, from developing new features to scaling to meet market demands. Not only are you an expert in working in JavaScript environments but you have a desire to get out of you comfort zone and grow as an engineer.
+
+We’re seeing immense growth in the industry, and our core focus is scaling our product’s feature set to meet that growth. Bring your talent and drive to our team of passionate, creative, and innovative thinkers, focused on developing a sophisticated product that uses modern JavaScript. We have the support and resources of a large company but operate with a start-up culture. You’ll thrive in a fast-paced and agile environment, during which you will see real-time results. As we work to rapidly expand our team, you’ll have the opportunity to grow your career in the direction that’s right for you.
+
+RESPONSIBILITIES:
+Serve as critical development resource on cross platform mobile application
+Work collaboratively and efficiently across functional teams in a fast-paced startup-like environment.
+High standard of engineering quality through source control, code reviews, continuous integration, and unit tests.
+Extend our platform to handle an expanding set of features.
+Improve infrastructure and application development
+Review and refactor legacy code
+Provide input on the establishment of development best practices and standards for the organization
+
+MUST HAVE SKILLS:
+3+ years experience as a software engineer
+Software development experience: JavaScript/TypeScript
+Developing and maintaining RESTful APIs with Node.js / Express.js
+Experience with SQL databases (SQLite/Postgres)
+Experience with React (React/Redux)
+
+NICE TO HAVE SKILLS:
+Experience with React Native is a plus
+Experience with Swift, Objective-C, Java, and Kotlin are a plus
+Experience with mobile application deployments (Android/iOS) are a plus
+Experience with data/event streams (Amazon Kinesis/Apache Pulsar) are a plus
+Familiarity with a CI/CD tool (CircleCI/AWS CodePipeline) are a plus
+Experience with cloud platforms (AWS) are a plus
+IQVIA is a leading global provider of advanced analytics, technology solutions and clinical research services to the life sciences industry. We believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. Learn more at https://jobs.iqvia.com
+We are committed to providing equal employment opportunities for all, including veterans and candidates with disabilities. https://jobs.iqvia.com/eoe
+As the COVID-19 virus continues to evolve, IQVIA’s ability to operate and provide certain services to customers and partners necessitates IQVIA and its employees meet specific requirements regarding vaccination status. https://jobs.iqvia.com/covid-19-vaccine-status"
+5,"Sr. Software Developer, PHP",CustomInk,Pennsylvania,Onsite,"$110,000 - $150,000 ",r - Full-time,"This is a unique ground-floor opportunity for a highly motivated and resourceful person to be a leader on our engineering team. In this role, you'll be involved in every aspect of our product from what we build to how we build it. You'll maintain and grow our current platform while building out our RESTful API allowing us to completely re-architect our application's structure. Printfection has a small-team focus, and this position will be reporting directly to the Head of Engineering.
+US Residents Only
+Responsibilities:
+Build a PHP-based RESTful API core to decouple UI and business logic to set up seamless growth of our innovative platform serving enterprise-level customers.
+Ensure consistency and scalability with a focus on simplicity, centralized assets and documentation.
+As a member of our growing Platform Team, you'll play an integral role in growing and scaling the core Printfection SaaS platform.
+Work closely with other members of the team to learn the current platform and assist in the transition to a hub and spoke model - modularized - micro services architecture
+Ensure the long-term quality, security, and scalability of our platform.
+Requirements:
+You’re a software developer with at least 6 years of professional experience working with PHP and on a large-scale web application and RESTful APIs with Linux and MySQL experience.
+You have experience in building applications using secure coding principles and practices and have the architectural vision of proactively designing for security principles such as least privilege, separation of privilege and accountability among others.
+Proficiency with AWS, Docker, JavaScript and CSS and have the confidence to step into the frontend to keep yourself unblocked.
+Proficiency with Linux command line server administration is a plus.
+Understanding of Infrastructure as Code / Automation / Scripting - Ansible/Terraform
+You pride yourself on polished, easy-to-understand written and verbal communication and care just as much about the readability and simplicity of your code as you do about solving the problem.
+You're a team player who looks to make others and what we work on better.
+You've been responsible for the success of an application.
+Experience with a transitioning legacy code base and systems, to modern fluid systems.
+Experience in remote work and cultural environments.
+You have a deadline mentality, are detailed-oriented, and have a passion for building things that scale.
+Salary Range: $110,000 - $150,000
+Cover letters are preferred (not required), Custom Ink values individuality, so use your judgment and write to us in your own voice.
+CustomInk, LLC (""""Custom Ink"""") is an Equal Opportunity Employer. We celebrate diversity in all forms and are committed to maintaining a discrimination-free workplace that treats applicants and employees with dignity and respect. Our employment process is conducted without regard to race, color, religion, nationality or ethnic background, sex, pregnancy, sexual orientation, gender identity or expression, age, disability, protected veteran status, genetic information, or other attributes protected by state, federal, and local law.
+
+Custom Ink uses E-Verify to confirm the employment eligibility of all new team members. To learn more about E-Verify, including your rights and responsibilities, please click
+here
+.
+Read about our commitment to the safety of our team members during COVID-19
+here
+."
+6,Software Developer,DHL eCommerce,Remote,Onsite,N,r - Full-time,"Job Brief
+The Software Developer will be responsible for translating high level business requirements into fully functional code. Manage requirements and scope to ensure delivery of functionality in time for DHL eCommerce Solutions with high quality.
+SUMMARY:
+The Software Developer will be responsible for translating high level business requirements into fully functional code. Manage requirements and scope to ensure delivery of functionality in time for DHL eCommerce Solutions with high quality.
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+Provide technical subject matter expertise to software development teams responsible for systems designs.
+Coordinate with teams across the enterprise on the migration of existing IT services to the cloud; identify technical requirements, security requirements, potential issues, and work through these challenges.
+Participate and support agile software development while working with Developers, Database Developers, Business Analysts and other departments to architect and implement new functionality.
+Develop moderate application solutions by analysing and breaking down of system requirements.
+Responsible for quality control of all development deliverables.
+Develop, maintain and implement standards and methodologies for software development.
+Responsible for interpreting system requirements to design and application teams.
+Transform system requirements into technical design and application code base.
+Independently analyse medium to moderately complex system requirements and translate to industry standard technical design.
+Estimate development effort in support of project requests, based on documentation provided.
+Participate in code quality checks through reviews and code quality tools.
+Perform other related duties as required.
+EDUCATION AND/OR EXPERIENCE:
+Bachelor’s degree in Computer Science or related field.
+5-6 years of experience in a directly related field.
+REQUIREMENTS/SKILLS:
+Required Technology Skills
+Expert in Cloud-Native Development, proficient in JDK 11, Spring Boot 2.x, Spring Cloud, Spring Batch and Integration using Microservice architecture
+Well versed with OOPS design concepts and good grasp of architectural patterns
+Hands-on experience with unit testing/integration testing tools like Mockito, RestAssured, Cucumber.
+Familiarity with event driven architecture patterns.
+Git/Maven expertise.
+Working experience in building Images and Containerization using Docker, Docker Engine using an orchestration system like Kubernetes/Openshift
+Expert in designing and developing RESTful APIs, schemas, documentation using tools like Swagger and dev testing using tools like Postman
+Knowledge of modern microservices security practices like OAuth2
+Microservices caching patterns
+Experience analysing/tuning microservices performance
+Ability to align workday with US Eastern Time Zone.
+Nice To Have Technology Skills
+Experience working with web servers such as, Nginx and Apache
+Master level knowledge of SQL language, triggers, views, stored procedures and complex SQLs under Oracle or other RDBMS systems.
+Experience building and deploying projects using CI/CD tools such as Jenkins
+Knowledge on transforming a legacy monolithic application to a Microservice based application
+Experience in designing, building and running load tests using applications such as Locust or JMeter
+Building and managing support and monitoring dashboards for high-volume APIs using tools such as ELK or Splunk stack
+Experience in Angular and/or React would be a plus.
+Familiarity with NoSql databases would be beneficial.
+API Integration Layer experience.
+Other Skills
+Experience with Agile Software Development practices using tools like JIRA/Confluence.
+Proven expertise troubleshooting and solution design for complex issues.
+Apply critical thinking skills, experience, and research sources in the design and implementation of technical solutions which improve usability, analyse maintainability, and scalability.
+Ensure best practice use of applications by keeping abreast with emerging technologies to ensure optimal performance of the applications.
+Strong emphasis on code quality, peer reviews, and writing test-driven code
+Ability to create technical specifications, architecture diagrams, network diagrams, data models, object diagrams, process flows and application development artifacts
+Experience developing on a full project life cycle, from requirements to delivery
+Excellent Planning & Organizational skills
+Excellent communication, documentation skills plus team leadership skills.
+Ability to research new technologies and create conceptual models or solutions and present them to high-level audience across business, application and technology domains.
+Proven experience with TDD, and ability to mentor others in effective TDD
+PHYSICAL DEMANDS:
+Physical demands are consistent with a professional office setting.
+Regular sitting at work station for 25 – 75% of the work shift.
+Ability to work alternate shifts (<20%).
+Equal Opportunity Employer- Veterans/Disability"
+7,Software Engineer,"Spry Squared, Inc.","Englewood, CO",Onsite,"$80,000 - $100,000 ",ct,"Company Description
+
+Spry Squared is a Minority and Woman Owned Small Business headquartered in Denver, Colorado with offices across the United States of America. We are an experienced federal government and commercial service provider with security cleared personnel working on various projects across the USA and the globe.
+Spry Squared provides organizations with Best in Class Enterprise Solutions, Managed IT Services, Cybersecurity Solutions, IT Professional Services, Recruiting Services, Project/Program Management and technology products. We are your strategic partner and value-added reseller, solving complex business challenges by leveraging technology solutions that reduce costs, optimize productivity and minimize risk.
+
+Job Description
+
+Do you want to solve complex problems and build systems that will change the Internet? Do you want to be part of a company that is on the cutting edge of technology? Do you want to work with a world-class team of engineers? Do you have what it takes?
+The engineering team at our client is looking for a software engineer focusing on developing software for a highly scalable distributed networked applications. We are looking for extremely motivated engineers who can work collaboratively to help build carrier-grade networking infrastructure.
+RESPONSIBILITIES:
+Design and develop software for large-scale, distributed systems and services
+Develop software for scalable real time, fault tolerant, high throughput message and event driven systems
+Improve the performance of existing software
+Analyze and troubleshoot software application issues in a timely fashion
+Mentor other engineers to maintain architectural vision and software quality
+Supervising and overseeing the technical aspects of projects
+
+Qualifications
+B.S or M.S. in Computer Science, Electrical Engineering, Computer Engineering, or a related technical field
+7+ years experience developing large-scale software systems
+Computer Science fundamentals in object-oriented design
+Computer Science fundamentals in data structures
+Computer Science fundamentals in algorithm design, problem solving, and complexity analysis
+Through understanding of IP networking and socket-based programming
+High degree of competency working with multi-threaded development
+Excellent C++ developer and debugging skills
+Ability to deliver clean, modular code quickly and efficiently
+Experience developing on Linux OS
+BONUS POINTS:
+Working experience with C++ 11 through 17
+Experience developing cloud applications.
+Experience with Test Driven Development and Continuous Integration
+Knowledge of Python and Go
+Sense of humor
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.
+Salary:
+$80,000 - $100,000 annually Depending on Experience"
+8,"Software Engineer, Testing",CBOE,"Kansas City, MO",Remote,"$80,000 - $130,000 ",r - Full-time,"Job Description
+Job Description
+We’re looking for talented developers who have a passion for quality.
+Responsibilities:
+The primary responsibility of this developer, tester, quality assurance, and software engineer is to work with our real time trading systems and write automated code/tests to evaluate and analyze new functionality. More specifically, this role will focus on building tests and testing tools supporting our world-class, highly scalable data platform. They will also have the opportunity to develop and improve our proprietary automated test frameworks. The role will work directly with our product owners and other development teams to test and validate new features which includes identifying, reporting, and driving resolution on issues discovered.
+Requirements:
+Bachelor’s Degree in Computer Science, Engineering, related fields, or equivalent experience.
+At least three years of development or QA experience is required, with recent and demonstrable experience creating automated test cases and working with test frameworks. Experience with continuous integration systems is a plus.
+Strong experience in object-oriented design and programming techniques. Our preference is someone with Python or C# development experience or a working knowledge of other programming languages.
+SQL experience (PostgreSQL or other variety) is necessary.
+Comfortable with working in a Linux/Unix terminal.
+Desired Skills:
+Experience in the financial markets is a plus.
+Experience with the complete software development life cycle and QA processes in an Agile environment.
+Experience with MS Windows and Office tools.
+The successful candidate will have excellent analytical skills, an exacting attention to detail, and an ability to work collaboratively and communicate effectively within a cross functional team environment.
+The Cboe Experience
+Whether you are just beginning your career or are a senior-level professional, working at Cboe will offer you countless opportunities to develop skills, make an impact through meaningful contributions, and gain rich experiences at an accelerated pace. By working collaboratively with smart, genuine and hardworking colleagues, you will build enduring relationships through frequent collaboration that will serve you well throughout your career, regardless of your chosen path. And, along your exceptional career journey at Cboe you’ll receive amazing benefits and robust rewards.
+As required by the New York City Human Rights Law, Cboe provides a reasonable range of minimum base salary for roles that may be performed in New York City. Actual compensation is influenced by a wide array of factors including but not limited to geographic location, skill set, level of experience, etc. For New York City only, the range of starting base salary for this role is $80,000-$130,000. Additional incentive compensation and benefits may be available.
+
+Equal Employment Opportunity
+We're proud to be an equal opportunity employer - and celebrate our associates' differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status.
+#LI-CP1
+#LI-Remote
+
+Any communication from Cboe regarding this position will only come from a Cboe recruiter who has a @cboe.com email or via LinkedIn Recruiter. Cboe does not use any other third party communication tools for recruiting purposes."
+9,TYpescript - Developer (Full Stack) (Mid),Bayer,"Ankeny, IA 50021",Onsite,Contr,ct,"This group runs the IT systems for greenhouses worldwide. You can provide this link to your candidates to better understand the function of the group: https://www.youtube.com/watch?v=67erTfnzE0Y
+
+Full Stack Developer (Node/React)
+Work in a fast-paced R&D environment
+Create webpages using Typescript, Node, and React to interact with automated machinery
+Design databases and JSON APIs
+Provide feedback in the product design and specification process
+A wide degree of creativity and latitude is expected
+Responsible for code development, debugging, analyzing test results, implementation, support, and enhancement of automated system software programs used in agricultural research.
+
+Required Qualifications
+Minimum of 5 years experience in a programming field, database design, or server administration
+Proficient in programming JavaScript/Typescript with 2+ years experience
+Proficient in SQL Query Development, Relational Database Design
+Proficient in JSON API development
+Requires a bachelor's degree in Computer Science or similar bachelor's degree
+Good verbal and written communication skills
+This developer position is located on-site in Ankeny, IA
+
+Preferred but not required qualifications
+Agile development environment
+Git source control experience
+Continuous Integration tools
+
+Filtered required in Javascript (Typescript) filtered test
+
+Role will be onsite,
+Location is Ankeny, Iowa Onsite 2-3 days/week
+
+Candidates will also do a live code test during the interview.
+
+IMPORTANT NOTE for POTENTIAL US CANDIDATES: Bayer expects its colleagues to be fully vaccinated against COVID-19. Bayer defines fully vaccinated in alignment with CDC which is two weeks after completing the two-dose vaccine regimen or two weeks after completing the one-dose regimen. Additionally, Bayer colleagues are also required to comply with state, local and customer requirements."
+10,Web Developer (Angular),"CleanAir Engineering, Inc.","Palatine, IL 60067",Onsite,N,ct,"WEB DEVELOPER (Angular)
+Are you looking for an opportunity to use your talents working with a leader in the air quality industry? CleanAir Engineering, Inc. is a global leader providing measurement services, consulting, and automated cloud-based equipment solutions for industrial facilities. We are currently looking for a Web Developer for our Internet of Things Team. This is a unique position that will have the feel of working for a tech start-up but within a company that’s been a leader in air quality measurements for over 45 years.
+The Angular Web Developer will be responsible for building custom front end web application features for internal and external users. Our ideal candidates will love to learn and expand their skillsets, build new products, and experiment with ways to improve our development processes and pipelines. You will be able to spend 10% of your time on training/side projects.
+Required Job Qualifications:
+1+ years Angular experience (Angular 2 or newer)
+Experience with CI/CD
+Experience with component libraries (e.g., Material, Bootstrap)
+Self-motivated individual with interest in developing functional specifications for new features
+Possess a learning and growth mindset
+Preferred Job Qualifications:
+AWS experience (S3, Cloudfront, Cognito, Severless)
+Experience building progressive web applications preferred.
+Benefits:
+Salary plus ATO **, superior medical insurance, 401K, prescription drug plan, short and long term disability, tuition reimbursement, vacation pay and life insurance. Salary commensurate with experience
+**Accumulated Time Off - approved hours beyond 40/week are provided as additional paid time off that, in select situations, can be exchanged for additional compensation.
+Candidates must pass a drug screen and a criminal background check
+To submit an application, please click the “Apply for Job” button below.
+Clean Air Engineering is an equal opportunity employer, offering challenging career opportunities, training, competitive compensation and a drug-free/smoke-free working environment."
+11,"Software Engineer, Security Analysis & Assurance",Zoox,"Foster City, CA",Onsite,"$187,000 - $241,000 ",r,"The Security Software Development & Analysis (SSDA) team is a subteam within ProdSec aiming at improving the security posture of Zoox robotaxi service through the development of security-critical software for vehicle platform & backend infrastructure. Including defining security requirements for individual vehicle components as well as their integrated subsystems. Engineers will also be responsible for
+developing software tools, frameworks, and processes for constructing security assurance cases; providing evidence & grounds for confidence that a set of intended security controls on vehicle subsystems are effective in their application.
+
+Required Qualifications
+Strong background in systems security, threat modeling, security risks identification, analysis, and prioritization
+Experience with defining security requirements for networked embedded systems
+Strong background in network security and network programming
+3+ years of programming experience in production environments
+B.S Degree in computer science, computer engineering, or a related field
+Strong written and verbal communication skills
+Local to San Francisco Bay Area or willing to relocate
+Bonus Qualifications
+Penetration testing and/or Quality Assurance experience
+Background in the Automotive industry
+Master’s or Ph.D. degree in computer science or computer engineering
+Compensation
+
+There are three major components to compensation for this position: salary, Amazon Restricted Stock Units (RSUs), and Zoox Stock Appreciation Rights. The salary range for this position is $187,000 to $241,000. A sign-on bonus may be offered as part of the compensation package. Compensation will vary based on geographic location and level. Leveling, as well as positioning within a level, is determined by a range of factors, including, but not limited to, a candidate's relevant years of experience, domain knowledge, and interview performance. The salary range listed in this posting is representative of the range of levels Zoox is considering for this position.
+Zoox also offers a comprehensive package of benefits including paid time off (e.g. sick leave, vacation, bereavement), unpaid time off, Zoox Stock Appreciation Rights, Amazon RSUs, health insurance, long-term care insurance, long-term and short-term disability insurance, and life insurance.
+
+Vaccine Mandate
+Employees working in this position will be required to have received a single dose of the J&J/Janssen COVID-19 vaccine OR have completed the two-dose Pfizer or Moderna vaccine series. In addition, employees will be required to receive a COVID-19 booster vaccine within two months of becoming eligible for the booster vaccine.
+
+Employees will be required to show proof of vaccination status upon receipt of a conditional offer of employment. That offer of employment will be conditioned upon, among other things, an Applicant’s ability to show proof of vaccination status. Please note the Company provides reasonable accommodations in accordance with applicable state, federal, and local laws.
+
+About Zoox
+Zoox is developing the first ground-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market. Sitting at the intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments. We’re looking for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.
+
+Follow us on LinkedIn
+
+A Final Note:
+You do not need to match every listed expectation to apply for this position. Here at Zoox, we know that diverse perspectives foster the innovation we need to be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills."
+12,"ES Application Developer I,2 or 3",University of Houston,"Houston, TX",Hybrid remote,N,r,"Analyzes, develops and modifies enterprise application programs and ad-hoc programs, under moderate supervision.
+Codes, tests, debugs, modifies and troubleshoots enterprise application systems and ad-hoc programs in accordance with standards.
+Analyzes complex enterprise application processes and systems and their underlying data structures; identifies and resolves problems.
+Installs, tests and troubleshoots interfaces and integration supporting vendor applications.
+Assists users with understanding, testing and using enterprise applications and programs. Defines, conducts and monitors system test procedures.
+Documents data structures, run streams, applications, programs and other objects according to generally accepted practices.
+Uses non-core technologies to design, code, test, debug, modify and troubleshoot enterprise applications.
+Learns new technologies and techniques using enterprise development tools.
+Performs other job-related duties as assigned.
+EEO/AA
+Qualifications
+
+Bachelors and No experience up to 5 years experience
+Requires a thorough understanding of both theoretical and practical aspects of an analytical, technical or professional discipline; or the basic knowledge of more than one professional discipline. Knowledge of the discipline is normally obtained through a formal, directly job-related 4 year degree from a college or university or an equivalent in-depth specialized training program that is directly related to the type of work being performed. No experience is required up to 5 years of experience.
+ES Application Developer 1- Bachelors and no experience
+ES Application Developer 2- Bachelors and 3 years of experience
+ES Application Developer 3- Bachelors and 5 years of experience
+
+Additional Posting Information:
+Preferred Qualifications:
+1+ years of experience and/or bachelor’s degree in Computer Science, Engineering, or other technical disciplines.
+Experience and/or formal education in one or more of the following: Oracle DB, SQL-Server, UNIX, Windows Servers, imaging, and workflow technologies.
+Excellent PeopleTools development skills including Application Designer, Application Engine, PeopleCode, Application Packages, Component Interfaces, Data Mover, SQR, and Query.
+Experience designing, developing, and maintaining integration routines among PeopleSoft applications as well as between PeopleSoft and non-PeopleSoft applications using Integration Broker and messages.
+Mobile development experience and familiarity with Hyperion and Tableau are a plus.
+Excellent analytical and creative problem-solving skills for designing, creating, and testing of software.
+Ability to work independently and as part of a team.
+Strong in programming fundamentals and have a good understanding of database concepts.
+Strong experience in SQL.
+Strong troubleshooting skills.
+Passion for technology, curiosity, and willingness to constantly learn new skills, work with new tools and discover new and innovative approaches to solving complex technical challenges.
+
+All qualified applicants will be eligible for hybrid remote work.
+
+Salary : Salary commensurate with experience
+Required Attachments by Candidate : Resume, Cover Letter/Letter of Application
+Employee Status : Regular/Benefits
+Job Posting : Mar 13, 2023, 4:14:23 PM"
+13,Sr. Software Developer I,iZeal,"Sterling, VA 20165",Onsite,"$119,000 ",r,"iZeal, Inc. has job openings for Sr. Software Developer I. Jobs located in Sterling, VA and various unanticipated locations throughout the U.S. Design, develop, implement, test, and deploy software applications. Research, analyze, and determine information needs and dataflow requirements. Gather and evaluate user requirements and procedures. Travel/relocate to various unanticipated locations throughout the U.S. for long and short term assignments at client sites. Requires Master's degree or foreign equivalent in Computer Science, Engineering (any), or related. Offered salary $119,000 P/Y. Mail resume with cover letter to iZeal, Inc., 46090 Lake Center Plaza, Suite 100, Sterling, VA 20165; Job 20IZI12; EOE"
+14,Full Stack Engineer (React/Node.js),Thunkable,"San Francisco, CA",Onsite,"$80,000 - $150,000 ",r,"The Opportunity
+
+You will add to, fix, and maintain features of our product by working on our React based front end, our Node/Express based back end, and our React Native based mobile components.
+
+We’re Looking For Someone Who Has
+
+You enjoy making hard things look easy to usersYou like to write clean, well abstracted code
+You have strong communication skills, a positive attitude, and empathy
+You are experienced in as many of the following as possible: JavaScript, React, ExpressJS, GraphQL, Node, React Native, Expo, Kubernetes, iOS/Swift, Android/Kotlin
+You might not be experienced in all of these technologies, but you are still awesome and should join our team
+
+Bonus:
+You created a working app on Thunkable
+You have a passion for well designed experiences and good UX
+You have experience and interest in QA/Testing
+You have experience in small startup environments
+
+Life at Thunkable
+
+Thunkable is on a mission to democratize app development and empower everyone to build without writing a single line of code. Our platform enables anyone to build and publish their iOS and Android apps for free. Today, non-engineers use Thunkable to prototype and share new ideas, develop proofs-of-concept for their own digital business, and design and ship their own ad-supported and premium apps. Thunkable was incubated at Google Research and MIT.
+
+We are backed by Lightspeed, NEA, Owl Ventures, SV Angel, Zhenfund, and Y-Combinator. Our founders are MIT engineers who want to extend the power and fun of creation to people who don’t code.
+Joining Thunkable means joining a team of passionate, entrepreneurial and friendly people with different backgrounds, shared ideas, and similar goals.
+
+What will you get when joining our team?
+
+Get compensated: We offer competitive pay, equity and benefits to our employees based on their location. You’ll get access to unlimited PTO regardless of your location.
+Wellness and Training Budget: We value your well-being and want to invest in it.
+Work Where You Want: The company is based in San Francisco (with an office), but operates globally, with team members working across a number of cities, countries, and time zones (to facilitate async work we prioritize countries and locations in a max 2h time zone difference from those hubs: San Francisco, New York and Dublin)
+Shared values: Creativity, Openness, Transparency, Persistence, and Entrepreneurialism.
+Challenge yourself by acquiring new abilities, interacting with clients, enhancing products, or learning design. We will encourage you to reach your full potential.
+
+We believe that a diverse and inclusive workplace helps ensure we learn from each other’s different backgrounds, experiences, and perspectives and is critical for building a product that supports the wide range of our users’ needs. Thunkable is an equal opportunity employer and a pleasant and supportive place to work. Women, minorities, individuals with disabilities and protected veterans are encouraged to apply.
+
+This position offers a competitive salary that is based on a combination of factors including location. The salary range for this role in San Francisco is between $80,000 and $150,000 per year and will be based on qualifications and skills. If the successful candidate is located in a different location or country, the salary may vary based on the cost of living, currency and other local factors. We are open to discussing salary with candidates who are interested in the role and may be willing to negotiate based on the candidate's experience and qualifications. We are committed to paying our employees fairly and providing opportunities for professional growth and development."
