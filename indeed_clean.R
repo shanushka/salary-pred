@@ -1,13 +1,17 @@
 library(stringr)
 
-data <- read.csv("Indeed_JD_SoftwareDeveloper.csv")
+data <- read.csv("RawData.csv")
 summary(data)
 
 calculate_experience <- function(job) {
   str_extract(job, "(\\d+(?:-\\d+)?\\+?)\\s*(years?)")
 }
+
+n <- length(data$Job_Description)
 data$experience <- NA
-data$experience <- calculate_experience(data$Job_Description)
+for (i in 1:n) {
+  data$experience[i] <- calculate_experience(data$Job_Description[i])
+}
 
 
 normalize_exp <- function(exp) {
@@ -24,7 +28,7 @@ normalize_exp <- function(exp) {
   return(exp_norm)
 }
 
-n <- length(data$Job_Description)
+
 for (i in 1:n) {
   data$exp_normailzed[i] <- normalize_exp(data$experience[i])
 }
@@ -44,9 +48,9 @@ default_salary <- "NA"
 data$salary1 <- ifelse(grepl("\\$[0-9,]+ - \\$[0-9,]+", data$Salary), data$Salary, default_salary)
 data$salary_min <- as.numeric(gsub("[^0-9.]+", "", sapply(strsplit(data$salary1, "-"), "[", 1)))
 data$salary_max <- as.numeric(gsub("[^0-9.]+", "", sapply(strsplit(data$salary1, "-"), "[", 2)))
-data$salary_norm <- trunc(data$salary_min + data$salary_max) / 2
+data$salary_avg <- trunc(data$salary_min + data$salary_max) / 2
 
-data$salary_norm1 <- scale(data$salary_min + data$salary_max) / 2
+# data$salary_norm1 <- scale(data$salary_min + data$salary_max) / 2
 
 hourly_to_yearly <- function(hourly_pay) {
   return(hourly_pay * 40 * 52)
@@ -72,8 +76,9 @@ calculate_sal <- function(sal) {
 
   return(li)
 }
-
-data$salary_norm12 <- calculate_sal(data$salary_norm)
+data_raw <- data
+na.omit(data)
+data$salary_norm <- calculate_sal(data$salary_avg)
 
 bin_salary <- function(sal) {
   li <- list()
@@ -92,4 +97,7 @@ bin_salary <- function(sal) {
   return(li)
 }
 
-data$label <- bin_salary(data$salary_norm12)
+data$label <- bin_salary(data$salary_norm)
+
+df <- data.frame(lapply(data, as.character), stringsAsFactors = FALSE)
+write.csv(df, "C:\\Users\\skalako\\Desktop\\salary-pred\\dataLabeled.csv", row.names = FALSE)
