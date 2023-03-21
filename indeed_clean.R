@@ -48,8 +48,13 @@ data$salary_norm <- trunc(data$salary_min + data$salary_max)/2
 data$salary_norm1 <- scale(data$salary_min + data$salary_max)/2
 
 hourly_to_yearly <- function(hourly_pay) {
-     pay <- hourly_pay * 40 * 52
-     return(pay)
+     return(hourly_pay * 40 * 52)
+}
+
+n_int_digits = function(x) {
+    result = floor(log10(abs(x))) + 1
+    result[!is.finite(result)] = 0
+    result
 }
 
 calculate_sal<- function(sal) {  
@@ -57,7 +62,7 @@ calculate_sal<- function(sal) {
     for(i in 1:length(as.numeric(sal))) { 
         if(is.na(sal[i])) 
             li <- append(li, sal[i])
-        else if (nchar(as.character(sal[i])) <= 3)
+        else if (n_int_digits(sal[i]) <= 3)
             li <- append(li, hourly_to_yearly(sal[i]))
         else
             li <- append(li, sal[i])
@@ -67,4 +72,23 @@ calculate_sal<- function(sal) {
 }
 
 data$salary_norm12 <- calculate_sal(data$salary_norm)
+
+bin_salary <- function(sal) {  
+     li <- list()
+     for(i in 1:length(sal)) { 
+         if(is.na(sal[i])) 
+             li <- append(li, sal[i])
+         else if (sal[i] <= 50000)
+             li <- append(li, "Low")
+         else if (sal[i] > 50000 && sal[i] <= 100000 )
+             li <- append(li, "Medium")
+         else if (sal[i] > 100000) 
+             li <- append(li, "High")
+         
+     } 
+     
+     return(li)
+}
+
+data$label <- bin_salary(data$salary_norm12)
 
