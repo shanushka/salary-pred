@@ -26,9 +26,9 @@ driver.implicitly_wait(3)
 Job_data = []
 c_type = "NaN"
 try:
-    for page in range(0, 2000, 10):
+    for page in range(0, 1000, 10):
         driver.get(
-            f'https://indeed.com/jobs?q=Human+resource+$40,000&l=United+States&start={page}')
+            f'https://indeed.com/jobs?q=teacher+$40,000&l=United+States&start={page}')
         time.sleep(random.uniform(8.5, 10.9))
         try:
             close = driver.find_element(
