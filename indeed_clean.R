@@ -1,6 +1,6 @@
 library(stringr)
 
-data <- read.csv("RawData.csv")
+data <- read.csv("Data.csv")
 summary(data)
 
 calculate_experience <- function(job) {
@@ -77,7 +77,6 @@ calculate_sal <- function(sal) {
   return(li)
 }
 data_raw <- data
-na.omit(data)
 data$salary_norm <- calculate_sal(data$salary_avg)
 
 bin_salary <- function(sal) {
@@ -85,11 +84,11 @@ bin_salary <- function(sal) {
   for (i in 1:length(sal)) {
     if (is.na(sal[i])) {
       li <- append(li, sal[i])
-    } else if (sal[i] <= 50000) {
+    } else if (sal[i] <= 70000) {
       li <- append(li, "Low")
-    } else if (sal[i] > 50000 && sal[i] <= 100000) {
+    } else if (sal[i] > 70000 && sal[i] <= 120000) {
       li <- append(li, "Medium")
-    } else if (sal[i] > 100000) {
+    } else if (sal[i] > 120000) {
       li <- append(li, "High")
     }
   }
@@ -100,4 +99,16 @@ bin_salary <- function(sal) {
 data$label <- bin_salary(data$salary_norm)
 
 df <- data.frame(lapply(data, as.character), stringsAsFactors = FALSE)
-write.csv(df, "C:\\Users\\skalako\\Desktop\\salary-pred\\dataLabeled.csv", row.names = FALSE)
+write.csv(df, "C:\\Users\\skalako\\Desktop\\dataLabeled.csv", row.names = FALSE)
+
+data$annual_pay <- as.numeric(unlist(data$salary_norm))
+data_final <- data[!is.na(data$annual_pay), ]
+myp11 <- ggplot(data_final, aes(x = annual_pay, colour = Industry)) +
+  geom_bar(size = 2.25)
+ggsave("myp11.png", plot = myp11, dpi = 300)
+
+data_final <- data_final[data_final$annual_pay <= 200000, ]
+
+myp12 <- ggplot(data_final, aes(x = annual_pay, colour = Industry)) +
+  geom_bar(size = 2.25)
+ggsave("myp12.png", plot = myp12, dpi = 300)
