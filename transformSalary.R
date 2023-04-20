@@ -50,8 +50,6 @@ data$salary_min <- as.numeric(gsub("[^0-9.]+", "", sapply(strsplit(data$salary1,
 data$salary_max <- as.numeric(gsub("[^0-9.]+", "", sapply(strsplit(data$salary1, "-"), "[", 2)))
 data$salary_avg <- trunc(data$salary_min + data$salary_max) / 2
 
-# data$salary_norm1 <- scale(data$salary_min + data$salary_max) / 2
-
 hourly_to_yearly <- function(hourly_pay) {
   return(hourly_pay * 40 * 52)
 }
@@ -64,6 +62,7 @@ n_int_digits <- function(x) {
 
 calculate_sal <- function(sal) {
   li <- list()
+  
   for (i in 1:length(as.numeric(sal))) {
     if (is.na(sal[i])) {
       li <- append(li, sal[i])
@@ -76,6 +75,7 @@ calculate_sal <- function(sal) {
 
   return(li)
 }
+
 data_raw <- data
 data$salary_norm <- calculate_sal(data$salary_avg)
 
