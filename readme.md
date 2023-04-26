@@ -15,8 +15,8 @@ Scrape the data from indeed to collect the data. Salary-pred predicts the given 
   
 <img width="356" alt="Screen Shot 2023-04-26 at 1 41 32 PM" src="https://user-images.githubusercontent.com/20009772/234672065-768691c0-7240-43dd-8877-e50b2c69551d.png">
 
-  2) Go to tab runtime -> Run all
-  3) To run individual shell -> press shift+command
+  3) Go to tab runtime -> Run all
+  4) To run individual shell -> press shift+command
 
 <h4> To contribute to the project <h4>
 
